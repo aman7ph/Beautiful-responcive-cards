@@ -1,3 +1,4 @@
 # Beautiful-responcive-cards
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-8udnjt)
+Beautiful cards using html and css only 
+ther is a demo pictures in the Demo_pic folder 
